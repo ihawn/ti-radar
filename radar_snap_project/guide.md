@@ -1,0 +1,4 @@
+- run setup.sh
+- run start_minicom.sh
+- run `open_connection.py` via `sudo python3 open_connection.py`
+    - you should see output on terminal. If prompted for login, it's "root"
